@@ -1,7 +1,3 @@
-# readme
-[<img src="https://raw.githubusercontent.com/ngudbhav/ngudbhav/main/intro.gif" alt="👋 Hi there! I'm AthenaDev title="]
-<br />
-
 <div align="center">
 
 [<img src="https://img.shields.io/badge/ngudbhav%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/ngudbhav)
