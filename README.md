@@ -40,7 +40,7 @@ Trico | [![Downloads](https://img.shields.io/github/downloads/ngudbhav/TriCo-ele
 <br/>
 <div align="center">
 
-![Athena's github stats](https://github-readme-stats.vercel.app/api?username=athena&show_icons=true&theme=dark)
+![Athena's github stats](https://github-readme-stats.vercel.app/api?username=ngudbhav&show_icons=true&theme=dark)
 
 </div>
 <br />
