@@ -1,9 +1,3 @@
-
-
-* 🔭 Currently working as Software Engineer @ <a href="https://www.interviewbit.com/">InterviewBit</a>
-* 💬 Developer by profession, Tech-Consultant by Reputation
-* ⚡ Connect to Know More!
-
 <div align="center">
 
 [<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>]()
