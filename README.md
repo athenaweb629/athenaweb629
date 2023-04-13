@@ -1,11 +1,4 @@
-<div align="center">
 
-[<img src="https://img.shields.io/badge/ngudbhav%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/ngudbhav)
-[<img src="https://img.shields.io/badge/ngudbhav%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/ngudbhav/)
-[<img src="https://img.shields.io/badge/ngudbhav%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/ngudbhav/)
-[<img src="https://img.shields.io/badge/ngudbhav%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/>](https://snapchat.com/add/ngudbhav/)
-
-</div>
 
 * 🔭 Currently working as Software Engineer @ <a href="https://www.interviewbit.com/">InterviewBit</a>
 * 💬 Developer by profession, Tech-Consultant by Reputation
@@ -40,7 +33,7 @@ Trico | [![Downloads](https://img.shields.io/github/downloads/ngudbhav/TriCo-ele
 <br/>
 <div align="center">
 
-![Athena's github stats](https://github-readme-stats.vercel.app/api?username=ngudbhav&show_icons=true&theme=dark)
+![Athena's github stats](https://github-readme-stats.vercel.app/api?username=athenaweb629&show_icons=true&theme=merko)
 
 </div>
 <br />
