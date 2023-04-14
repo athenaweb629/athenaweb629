@@ -1,3 +1,12 @@
+<meta name="react-developer-portfolio best overview brilliant smart"/>
+<meta name="react"/>
+<meta name="next"/>
+<meta name="vue" />
+<meta name="nuxt" />
+<meta name="front-end" />
+<meta name="back-end" />
+<meta name="full-stack"/>
+<meta name="best-design"/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=600&size=50&duration=2000&pause=1500&color=8DF71D&background=31B6FF00&center=true&vCenter=true&width=1000&height=60&lines=Welcome+to+my+Github!;My+name+is+Robert+Williams.;Life+is+up+and+down+for+everyone.;Cheer+up!;Eyes+up!;Try+Everything+and+Reach+your+Goal!)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -19,18 +28,23 @@
 
 
 
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 42px> Skills
+<h2>
 <p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vue-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nextjs/next-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
   <br />
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+ 
 </p>
   </h2>
   
