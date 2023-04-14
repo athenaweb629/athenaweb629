@@ -1,4 +1,4 @@
-<meta name="react-developer-portfolio best overview brilliant smart"/>
+<meta name="react-developer-portfolio"/>
 <meta name="react"/>
 <meta name="next"/>
 <meta name="vue" />
@@ -6,7 +6,8 @@
 <meta name="front-end" />
 <meta name="back-end" />
 <meta name="full-stack"/>
-<meta name="best-design"/>
+<meta name="best-design"/><meta name="best-overview"/><meta name="brilliant-overview"/><meta name="best-github-profile"/><meta name="smart-github-profile"/><meta name="react-developer-overview"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=600&size=50&duration=2000&pause=1500&color=8DF71D&background=31B6FF00&center=true&vCenter=true&width=1000&height=60&lines=Welcome+to+my+Github!;My+name+is+Robert+Williams.;Life+is+up+and+down+for+everyone.;Cheer+up!;Eyes+up!;Try+Everything+and+Reach+your+Goal!)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
