@@ -11,14 +11,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=600&size=50&duration=2000&pause=1500&color=8DF71D&background=31B6FF00&center=true&vCenter=true&width=1000&height=60&lines=Welcome+to+my+Github!;My+name+is+Robert+Williams.;I+am+Junior+full-stack+developer.;Life+is+up+and+down+for+everyone.;Cheer+up!;Eyes+up!;Try+Everything+and+Reach+your+Goal!)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <div align="center">
 
 
 ![Athena's github stats](https://github-readme-stats.vercel.app/api?username=athenaweb629&show_icons=true&line_height=20&theme=merko&&bg_color=0,000000,137F40)
 ![Athena's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=athenaweb629&layout=compact&show_icons=true&line_height=20&show_icons=true&theme=merko&bg_color=0,000000,137F40)
- </div>
+ </div> -->
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
