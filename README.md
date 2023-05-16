@@ -3,6 +3,8 @@
 <meta name="next"/>
 <meta name="vue" />
 <meta name="nuxt" />
+<meta name="django" />
+<meta name="flask" />
 <meta name="front-end" />
 <meta name="back-end" />
 <meta name="full-stack"/>
