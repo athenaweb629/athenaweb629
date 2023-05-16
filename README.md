@@ -12,6 +12,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=600&size=50&duration=2000&pause=1500&color=8DF71D&background=31B6FF00&center=true&vCenter=true&width=1000&height=60&lines=Welcome+to+my+Github!;My+name+is+Suzuki+Ren.;I+am+Junior+full-stack+developer.;Life+is+up+and+down+for+everyone.;Cheer+up!;Eyes+up!;Try+Everything+and+Reach+your+Goal!)](https://git.io/typing-svg)
 
+ <img 
+     src="https://komarev.com/ghpvc/?username=lobcare&label=Profile%20views&color=0e75b6&style=flat" alt="adam-pw" 
+ />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
