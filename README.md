@@ -11,5 +11,5 @@
 <meta name="best-design"/><meta name="best-overview"/><meta name="brilliant-overview"/><meta name="best-github-profile"/><meta name="smart-github-profile"/><meta name="react-developer-overview"/>
 
 
-Stay Hungry, Stay Foolish.
+Stay Hungry, Stay Foolish.</br>
 --steve jobs
