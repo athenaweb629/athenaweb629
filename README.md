@@ -12,4 +12,4 @@
 
 
 <h3>🌟Stay Hungry, Stay Foolish🌟</h3></br>
---Steve Jobs
+<p style="color:red">Steve Jobs</p>
