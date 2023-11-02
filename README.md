@@ -11,7 +11,7 @@
 <meta name="best-design"/><meta name="best-overview"/><meta name="brilliant-overview"/><meta name="best-github-profile"/><meta name="smart-github-profile"/><meta name="react-developer-overview"/>
 
 
-<h3> ⭐Stay Hungry, Stay Foolish⭐</h3>
+<h3> ⭐You've got to find what you love⭐</h3>
 <p> 🥇Steve Jobs🥇</p>
 
 <h3>🚀To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.🚀</h3>
