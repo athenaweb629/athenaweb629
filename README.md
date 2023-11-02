@@ -13,3 +13,6 @@
 
 <h3> ⭐Stay Hungry, Stay Foolish⭐</h3>
 <p> 🥇Steve Jobs🥇</p>
+
+<h3>🚀To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.🚀</h3>
+<p>🌿Ralph Waldo Emerson🌿</p>
